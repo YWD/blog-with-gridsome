@@ -1,5 +1,5 @@
 # strapi
-项目仓库地址：https://gitee.com/osc_yang/gridsome-strapi
+项目仓库地址：https://gitee.com/osc_yang/gridsome-strapi  
 项目服务器地址：117.50.0.231:1337  
 账号：1347011912@qq.com  
 密码：见笔记链接  
